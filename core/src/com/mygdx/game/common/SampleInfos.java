@@ -14,8 +14,11 @@ public class SampleInfos {
         InputListeningSample.SAMPLE_INFO,
         InputPollingSample.SAMPLE_INFO,
         ModelinfoSample.SAMPLE_INFO,
+        OrthographicCameraSample.SAMPLE_INFO,
         MyGdxGame.SAMPLE_INFO,
-        OrthographicCameraSample.SAMPLE_INFO
+        ViewportSample.SAMPLE_INFO,
+        SpriteBachSample.SAMPLE_INFO,
+        ShapeRenderSample.SAMPLE_INFO
     );
 
     public static List<String> getSampleName(){
